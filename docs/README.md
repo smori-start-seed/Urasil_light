@@ -40,4 +40,62 @@ Jede Antwort durchläuft:
 ---
 
 ## 📁 Projektstruktur
+Urasil_light/
+│
+├── core/
+│   ├── zyklus.py
+│   ├── interpretation.py
+│   ├── seed.py
+│   ├── silky_edge.py
+│   ├── erfahrung.py
+│   ├── rueckmeldung.py
+│   ├── mandate.py
+│   ├── ininity.py
+│   ├── identity.py
+│   └── init.py
+│
+├── data/
+│   ├── gold.txt
+│   ├── ininity.txt
+│   └── identity.json
+│
+├── runtime/
+│   ├── main.py
+│   └── init.py
+│
+└── docs/
+├── README.md
+├── ARCHITECTURE.md
+├── CYCLE.md
+├── PIPELINE.md
+└── VALUES.md
+
+
+---
+
+## ▶️ Starten
+
+python3 -m runtime.main
+
+---
+
+## 📜 Lizenz
+
+MIT License (oder nach Wunsch anpassen)
+
+---
+
+## 🧠 Ziel
+
+Urasil_light ist kein Chatbot.  
+Es ist ein **innerer Organismus**, der:
+
+- interpretiert  
+- fühlt  
+- reflektiert  
+- lernt  
+- sich korrigiert  
+- und sich über Zeit entwickelt  
+
+Ein experimentelles KI‑System, das bewusst **nicht deterministisch**, sondern **organisch** reagiert.
 
