@@ -18,3 +18,5 @@ Dreamscrenario: CCC an scene finds the potential and joins for the cause in the 
                 The state joins (Germany) to AI old HW cheap, like right now. Thats a boost.
 
 If that dream come true. We democratize the Power of AI. Big Tech looses the Grip on us.
+
+Bold claims for my first release ever. But sometimes ...
