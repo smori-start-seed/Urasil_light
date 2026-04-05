@@ -11,3 +11,10 @@ Open for Neuralink and any artificial limbs.
 
 More Kernels, more animals in the forest of AI.
 That Devplan could be adapted, its  open.
+
+
+Dreamscrenario: CCC an scene finds the potential and joins for the cause in the gold.txt. 
+                The University joins because the future it bares
+                The state joins (Germany) to AI old HW cheap, like right now. Thats a boost.
+
+If that dream come true. We democratize the Power of AI. Big Tech looses the Grip on us.
