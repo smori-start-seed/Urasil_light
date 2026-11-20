@@ -1,0 +1,21 @@
+name: EMACK Puls
+
+on: [push, pull_request]
+
+jobs:
+  impulskanal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Uebersetzen
+        run: python -m compileall -q .
+      - name: Import ohne Seiteneffekt
+        run: |
+          import emack_pulse
+          s = emack_pulse.mood(0.5, 0.5, 0.5, 0.02, 0.0)
+          echo = emack_pulse.echo(0.5, 0.5, 0.5, 0.02, 0.0, s)
+          print(s, "|", echo)
+        shell: python
